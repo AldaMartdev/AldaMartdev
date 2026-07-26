@@ -21,8 +21,26 @@ Bachiller en Ingeniería de Sistemas e Informática con experiencia en **Data En
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-006ACC?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat-square)
+
+---
+
+### 🚀 Proyectos destacados
+
+**[ai-crawler-tracker](https://github.com/AldaMartdev/ai-crawler-tracker)** — Librería open source (TypeScript/Node.js) que detecta en el servidor qué bots de IA (GPTBot, ClaudeBot, PerplexityBot, etc.) visitan un sitio web, con adaptadores para Express, Next.js y edge runtimes, almacenamiento en SQLite y panel de visualización local.
+
+**[weborquestador](https://github.com/AldaMartdev/weborquestador)** — Aplicación full-stack con backend en Flask (Python) y frontend en Next.js, pensada para orquestar procesos web de forma local.
+
+**[replica-predict](https://github.com/AldaMartdev/replica-predict)** — Modelo de machine learning en Python que predice réplicas sísmicas mediante un stacking de XGBoost, LightGBM y BalancedRandomForest, usando SMOTETomek para balancear clases y datos históricos del IGP.
 
 ---
 
